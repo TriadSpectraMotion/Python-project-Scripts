@@ -15,7 +15,7 @@
 Welcome aboard fellow developer, this is where you will find Python scripts which you are free to contribute to.
 You can contribute by submitting your own scripts, also written in Python, whicrh you think would be amazing for other
 people to see.g
-
+fg
 ### Contribution Guidelines
 
 The contribution guidelines are as per the
