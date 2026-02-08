@@ -12,7 +12,7 @@
 
 ### Description
 
-Welcome aboard fellow developer, this is where you will find Python scripts which you are free to contribute to.
+Welcome aboard fellow developer, this is where you will find Python scripts which you areertert free to contribute to.
 You can contribute by submitting your own scripts, also written in Python, whicrh you think would be amazing for other
 people to see.g
 fg
