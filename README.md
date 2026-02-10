@@ -1,23 +1,6 @@
 
 fg
 ### Contribution Guidelines
-
-The contribution guidelines are as per the
-guide [HERE](https://github.com/larymak/Python-project-Scripts/blob/main/CONTRIBUTING.md).
-
-### Instructions
-
-- Fork this repository
-- Clone your forked repository
-- Add your scripts
-- Commit and push
-- Create a pull request
-- Star this repository
-- Wait for pull request to merge
-- Celebrate your first step into the open source world and contribute more
-
-## Additional tools to help you get Started with Open-Source Contribution
-
 - [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 - [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 
